@@ -35,7 +35,7 @@ header h1 {
   position: relative;            /* Para posicionar absolutamente elementos internos */
   width: 100%;                   /* Ancho completo de la pantalla */
   height: 100vh;                 /* Altura completa visible de la pantalla */
-  background-image: url('img/family_fun_climbing.png'); /* Imagen de fondo */
+  background-image: url('img/ninos-valientes-jugando-en-un-parque-de-aventuras.jpg'); /* Imagen de fondo */
   background-size: cover;        /* Ajusta la imagen para cubrir toda la sección */
   background-position: center;   /* Centra la imagen */
   background-repeat: no-repeat;  /* No repite la imagen */
@@ -60,6 +60,9 @@ header h1 {
   padding: 10px 20px;            /* Botón con relleno vertical y horizontal cómodo */
 }
 
+.hero-title {
+  font-family: 'Luckiest Guy', cursive; /* Fuente personalizada para el título de la sección hero */
+}
 
 /* Zonas de aventura */
 .zona {
